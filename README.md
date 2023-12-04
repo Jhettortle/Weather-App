@@ -10,7 +10,8 @@ You can type a location or use your current location to see the 5 day forcast.
 3. Click search or current location and the weather should populate.
 
 ## Website 
-<a herf="https://jhettortle.github.io/Weather-App/">Weather App</a>
+<a href="https://jhettortle.github.io/Weather-App/">Weather App</a>
 
 ## License 
 MIT License 
+git 
